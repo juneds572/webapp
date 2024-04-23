@@ -1,7 +1,7 @@
 <?php header('Content-Type: application/json');
 
 
-$servername = '172.17.0.1';
+$servername = '172.17.0.2';
 $username = 'root';
 $password = 'password';
 $database = 'prod_schema';
